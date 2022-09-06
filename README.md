@@ -1,6 +1,7 @@
 # Android Apps Portfolio
 
-
+## Scaling Nav
+![IMG1]<img src="https://github.com/RaghavAwasthi/AndroidProjects/blob/main/ScalingNav.gif" width="400" height="790">
 
 ## Ses Android
 | | | |
